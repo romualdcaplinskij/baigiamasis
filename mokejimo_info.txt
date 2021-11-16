@@ -1,0 +1,37 @@
+Sodros imokos PSD ir VSD
+
+Mokama įsaskaita:
+Luminor 		s.n. LT58 4010 0424 0349 5020
+SEB			s.n. LT33 7044 0600 0774 0589
+Medicinos bankas 	s.n. LT16 7230 0000 0069 1047
+Swedbank		s.n. LT77 7300 0101 2900 2656
+Šiaulių bankas		s.n. LT02 7180 3000 0069 0001
+Citadelė		s.n. LT61 7290 0000 0069 1020
+
+Imokos kodai:
+VSD įmoka	292
+VSD delspinigai 293
+VSD baudos	294
+
+PSD einamos įmokos 313
+PSD nuo pajamų	   343
+PSD delspinigai    344
+PSD baudos	   345
+
+
+Pajamų mokestis GPM
+
+Luminor 		s.n. LT74 4010 0510 0132 4763
+SEB			s.n. LT05 7044 0600 0788 7175
+Medicinos bankas 	s.n. LT42 7230 0000 0012 0025
+Swedbank		s.n. LT24 7300 0101 1239 4300
+Šiaulių bankas		s.n. LT32 7180 0000 0014 1038
+Citadelė		s.n. LT78 7290 0000 0013 0151
+
+Imokos kodas:
+Gyventojų pajamų mokestis	141
+
+
+
+
+
